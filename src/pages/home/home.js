@@ -37,7 +37,6 @@ const HomePage = () => {
                         </ThemeProvider>
                     </div>
                 </Container>
-                
             </div>
         </Fragment>
 
