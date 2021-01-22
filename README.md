@@ -3,7 +3,7 @@
 <p align="center"> EN: An example (SIMPLE) application using useEffect and useState </p>
 
 ### Demonstração/ Demonstration: 
-<img src="src/utils/img/demonstration/searchcitydesktop.png" alt="demonstration"></img>
+<img src="src/utils/demonstration/demonstration.gif" alt="demonstration"></img>
 
 ### Pré-requisitos / Prerequisites (De preferência, testar no chrome / Preferably test on chrome)
 <p align="center"> PT: Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
