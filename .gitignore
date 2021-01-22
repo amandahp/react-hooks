@@ -18,7 +18,6 @@
 .env.test.local
 .env.production.local
 .eslintcache
-.eslintcache
 .vscode
 
 npm-debug.log*

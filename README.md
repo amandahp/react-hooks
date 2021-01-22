@@ -1,6 +1,6 @@
 ## Descrição do Projeto / Project description
 <p align="center"> PT: Uma aplicação (SIMPLES) de exemplo utilizando useEffect e useState </p>
-<p align="center"> EN: An example (SIMPLE) application using useEffect and useState </p>
+<p align="center"> EN: An example (SIMPLE) application using useEffect and useState  </p>
 
 ### Demonstração/ Demonstration: 
 <img src="src/utils/demonstration/demonstration.gif" alt="demonstration"></img>
