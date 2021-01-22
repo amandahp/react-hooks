@@ -7,10 +7,10 @@
 
 ### Pré-requisitos / Prerequisites (De preferência, testar no chrome / Preferably test on chrome)
 <p align="center"> PT: Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js v10.19.0](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)  </p>
 <p align="center"> EN:Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js v10.19.0] (https://nodejs.org/en/).
+[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 </p>
 
