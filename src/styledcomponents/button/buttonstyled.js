@@ -13,9 +13,7 @@ const ButtonStyled = styled.button`
     padding: 1rem 1.5rem;
     cursor: pointer;
     &:focus{
-        outline: thin dotted;
-            outline: 0px auto -webkit-focus-ring-color;
-            outline-offset: 0px;
+        outline: none;
 
     &:hover{
         background: ${props => props.theme.mainhover};

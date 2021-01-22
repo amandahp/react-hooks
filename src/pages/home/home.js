@@ -33,7 +33,7 @@ const HomePage = () => {
                     </div>
                     <div>
                         <ThemeProvider theme={themeNew}>
-                            <Button primary handleClickButton={handleClickExampleEffect} buttonValue={buttonEffect} />
+                            <Button  handleClickButton={handleClickExampleEffect} buttonValue={buttonEffect} />
                         </ThemeProvider>
                     </div>
                 </Container>

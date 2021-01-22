@@ -7,6 +7,9 @@ const Container = styled.div`
     margin-top: ${props => props.theme.marginTop};
     text-align: center;
     color: #0D41E1;
+    background-color: ${props => props.background};
+    width: ${props => props.width};
+
 
     
 ;`
@@ -19,6 +22,8 @@ Container.defaultProps = {
 
 export const themeContainer = {
     marginTop: "2vh",
+
+
 
 }; 
 
