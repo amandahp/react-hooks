@@ -2,7 +2,7 @@ import React, {Fragment} from 'react'
 import Button from '../../components/button'
 import {useHistory} from 'react-router-dom';
 import {ThemeProvider} from "styled-components";
-import {theme} from '../../styledcomponents/button/buttonstyled'
+import {theme } from '../../styledcomponents/button/buttonstyled'
 import Container from '../../styledcomponents/container/containerstyled'
 import GlobalStyle from '../../styledcomponents/global/global'
 
